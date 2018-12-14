@@ -32,4 +32,4 @@ weight = 5
 
 # Biography
 
-Owen Zhang is a master of artificial intelligence at the Intelligent Computing Lab, Tsinghua University. He research interests include computer vision, natural language processing and machine learning. He has worked in Tencent, Google, Minute Data Information Technology.
+Owen Zhang is a master of artificial intelligence at the Intelligent Computing Lab, Tsinghua University. His research interests include computer vision, natural language processing and machine learning. He has worked in Tencent, Google, Minute Data Information Technology.
