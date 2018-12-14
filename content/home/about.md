@@ -24,7 +24,7 @@ weight = 5
   year = 2020
 
 [[education.courses]]
-  course = "Bachelor in Electronic Information Engneering"
+  course = "Bachelor in Electronic Information Engineering"
   institution = "Wuhan University"
   year = 2018
  
